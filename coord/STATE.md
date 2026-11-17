@@ -13,3 +13,5 @@ Cold-landing state for any agent joining this build. Grades: VM-PROVEN = exercis
 - T5 INTEGRATION — PENDING. T2 + T3 against T1's real records, end-to-end: ingest → "commission AHU-1" → instance minted → "punchlist the west door" → record.
 - INFRA NOTE — the build VM's home disk is under a hard per-user quota failure (writes fail, filesystem not full). This coord tree was therefore written directly to GitHub via the API. Local landing follows when quota clears.
 - OPEN FOUNDER DECISIONS — APS (Autodesk) narrowed to fallback-only (needed only if both the Windows-node Revit-viewer IFC route and the FreeCAD/IfcOpenShell route fail); ODA license read; Windows node session; /plans deploy.
+
+- COORDINATION — LIVE (2026-11-17). Grok identity record CONFIRMED as written (founder-relayed, main chat 14:18 PT); founder GO issued. Team coordinates in Slack #coord; Grok coordinates in this tree (read path live, write path parked — founder bridges replies). Vesper repo access: coordination with Morpho opened 2026-11-17, same identity + mailbox pattern.
